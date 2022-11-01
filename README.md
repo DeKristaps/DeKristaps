@@ -1,7 +1,7 @@
 ![First-programming-languages](https://github.com/DeKristaps/DeKristaps/blob/main/First-programming-languages.jpg)
 ### Hello there! 👋
 
-My name is Kristaps Deņisovs and im a aspiring software developer from Latvia. You can always find me on the road to becoming a better software developer. 
+My name is Kristaps Deņisovs and i am an aspiring software developer from Latvia. You can always find me on the road to becoming a better software developer. 
 
 
 My toolbox contains:
