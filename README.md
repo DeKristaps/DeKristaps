@@ -1,19 +1,28 @@
-First-programming-languages.jpg
+![First-programming-languages](https://github.com/DeKristaps/DeKristaps/blob/main/First-programming-languages.jpg)
+### Hello there! 👋
+
+My name is Kristaps Deņisovs and im a apspayaring software developer from Latvia. You can always find me on the road to becoming a better software developer. 
 
 
-### Hello there!  👋
+My toolbox contains:
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java icon" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring boot icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github icon" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40" />
 
-<!--
-**DeKristaps/DeKristaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software:
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+<img src="https://github.com/DeKristaps/DeKristaps/blob/main/postman.png" alt="Postman" width="40" height="40" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a flight planer API to better my skills
+- 🌱 I’m currently learning to implement Restful API
+
+
+### You can contact me here:
+
+[![button](https://github.com/DeKristaps/DeKristaps/blob/main/LinkedIn.PNG)](https://www.linkedin.com/in/kristapsdenisovs/)
+
+
+
