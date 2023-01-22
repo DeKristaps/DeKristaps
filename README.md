@@ -5,7 +5,7 @@ My name is Kristaps Deņisovs and I am a passionate developer from Latvia. You c
 
 
 My toolbox contains:
-[![My Skills](https://skillicons.dev/icons?i=java, spring, ruby, ts, html, css, gradle, maven, postgres, mysql  )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,ts,html,css,gradle,maven,postgres,mysql)](https://skillicons.dev)
 
 Software:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40" />
