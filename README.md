@@ -5,17 +5,13 @@ My name is Kristaps Deņisovs and I am a passionate developer from Latvia. You c
 
 
 My toolbox contains:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,ts,html,css,gradle,maven,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,ts,html,css,angular,gradle,maven,postgres,mysql,git)](https://skillicons.dev)
 
 Software:
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-<img src="https://github.com/DeKristaps/DeKristaps/blob/main/postman.png" alt="Postman" width="40" height="40" />
+[![My Soft](https://skillicons.dev/icons?i=idea,vscode,docker)](https://skillicons.dev)
 
 
-- 🔭 I’m currently working on a flight planer API to better my skills
-- 🌱 I’m currently learning to implement Restful API
-
+- 🔭 I’m currently working on a action scheduler.
 
 ### You can contact me here:
 
