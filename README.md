@@ -1,14 +1,11 @@
 ![First-programming-languages](https://github.com/DeKristaps/DeKristaps/blob/main/First-programming-languages.jpg)
 ### Hello there! 👋
 
-My name is Kristaps Deņisovs and i am an aspiring software developer from Latvia. You can always find me on the road to becoming a better software developer. 
+My name is Kristaps Deņisovs and I am a passionate developer from Latvia. You can always find me on the road to becoming a better software developer. 
 
 
 My toolbox contains:
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java icon" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring boot icon" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github icon" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=java, spring, ruby, ts, html, css, gradle, maven, postgres, mysql  )](https://skillicons.dev)
 
 Software:
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40" />
